@@ -3,3 +3,5 @@ title: Title
 description: Description
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
+navbar-links:
+  About Me: "aboutme"
