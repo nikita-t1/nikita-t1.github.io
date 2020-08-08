@@ -1,5 +1,5 @@
 # --- Basic options --- #
-
+theme: jekyll-theme-cayman
 # Name of website
 title: My website
 
